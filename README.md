@@ -1,14 +1,14 @@
 # MyTasks
 
 <p align="center">
-    <a href="https://mhaidarhanif.com/mytasks">
+    <a href="https://mytasks.mhaidarhanif.com">
         <img src="./images/mytasks-logo.png" alt="MyTasks logo" height="80">
         <h3 align="center">MyTasks</h3>
     </a>
     <p align="center">A simple task management with delightful UI
         <br>
-        <a href="https://mhaidarhanif.com/mytasks">
-            <strong>Try MyTasks web version »</strong>
+        <a href="https://mytasks.mhaidarhanif.com">
+            <strong>Try MyTasks web app version »</strong>
         </a>
         <br>
         <br>
@@ -17,10 +17,7 @@
         <a href="https://mhaidarhanif.com">Author</a> ·
         <a href="https://impactbyte.com">Company</a>
     </p>
-</p>
-<br>
-
-> 
+</p> 
 
 ## Design
 
